@@ -1,1 +1,1 @@
-# PertriDish
+The Bacteria Simulation project is a fascinating exploration of emergent behavior and cellular automata, implemented entirely in C#. Inspired by the intricate dynamics of bacterial growth in a petri dish, this simulation offers users a glimpse into the mesmerizing world of microbial ecosystems.
